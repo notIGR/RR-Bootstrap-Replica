@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import TopBar from './components/TopBar'
-import Background from './components/Background'
-import StoreListings from './components/StoreListings'
+import TopBar from './components/topBar'
+import Background from './components/background'
+import StoreListings from './components/storeListings'
 
 
 function App() {
